@@ -1,0 +1,5 @@
+# requirements.txt
+streamlit==1.31.0  # For the web application framework
+google-generativeai==0.7.2  # For the Gemini API integration
+pandas==2.2.0  # For data manipulation and analytics
+plotly==5.18.0  # For interactive visualizations
